@@ -1,0 +1,43 @@
+.payment{
+    background-color: white;
+}
+
+.payment__container >h1{
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(234,237.237);
+    border-bottom: 1px solid lightgray;
+    font-weight: 400;
+}
+
+.payment__container > h1 a{
+    text-decoration: none;
+}
+
+.payment__section{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 20px;
+    margin: 0 20px;
+}
+
+.payment__title{
+    
+    width: 400px;
+}
+
+
+.product__list{
+    padding-left: 100px;
+    flex: 0.2;
+    right: 100px;
+}
+
+.payment__items > CheckoutProduct{
+    margin-left: 100px;
+}
+
+.payment__address, .payment__items, .payment__details{
+    flex: 0.8;
+    margin-left:100px;
+}
