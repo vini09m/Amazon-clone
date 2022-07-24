@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//:vini09m.github.io/AmazonClone/static/css/main.bef9b4f0.css",
+    "main.js": "/https//:vini09m.github.io/AmazonClone/static/js/main.9c5819af.js",
+    "static/js/787.ebd7646a.chunk.js": "/https//:vini09m.github.io/AmazonClone/static/js/787.ebd7646a.chunk.js",
+    "index.html": "/https//:vini09m.github.io/AmazonClone/index.html",
+    "main.bef9b4f0.css.map": "/https//:vini09m.github.io/AmazonClone/static/css/main.bef9b4f0.css.map",
+    "main.9c5819af.js.map": "/https//:vini09m.github.io/AmazonClone/static/js/main.9c5819af.js.map",
+    "787.ebd7646a.chunk.js.map": "/https//:vini09m.github.io/AmazonClone/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef9b4f0.css",
+    "static/js/main.9c5819af.js"
+  ]
+}
