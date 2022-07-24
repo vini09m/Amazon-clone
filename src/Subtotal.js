@@ -30,7 +30,7 @@ const history =useNavigate();
             value={result}//part of hw
             displayType={"text"}
             thousandSeparator={true}
-            prefix={"$"}
+            prefix={"₹"}
         />
         <button onClick={e => history('/payment')}>Proceed to Checkout</button>
     </div>

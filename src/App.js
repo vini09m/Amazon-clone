@@ -11,7 +11,7 @@ import Payment from './Payment'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {loadStripe} from '@stripe/stripe-js';
 import {Elements} from '@stripe/react-stripe-js';
-import PageNotFound from './PageNotFound'
+
 import Orders from './Orders';
 
 const promise=loadStripe("pk_test_51LJhl1SGvExgRQQCYMlAeWwOQA18B7jV8O1b7Niv7Yc4rlZrtrzZhrZz2Xf7cR7xnlPaHoxX6W0JCi5rybAcQIwQ00MHeSoACR");
@@ -71,4 +71,4 @@ function App() {
 }
 
 export default App;
-/**/
+/*https://clone-6560e.web.app/*/

@@ -1,4 +1,5 @@
 {
+  "homepage": "https//:vini09m.github.io/AmazonClone",
   
   "name": "amazon-clone",
   
@@ -43,6 +44,9 @@
   
     
   "firebase": "^9.8.4",
+  
+    
+  "gh-pages": "^4.0.0",
   
     
   "moment": "^2.29.4",
@@ -90,7 +94,10 @@
   
   "scripts": {
   
-    
+  "predeploy":"npm run build",
+
+  "deploy":"gh-pages -d build",
+
   "start": "react-scripts start",
   
     
